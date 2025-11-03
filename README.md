@@ -1,24 +1,12 @@
-# Manual-QA-Portfolio
+# Hello, I’m Ana!
 
-Hello! I’m Ana — a Manual QA specialist with hands-on experience in testing web and mobile applications.  
-I focus on delivering high–quality products through structured testing approaches, clear documentation, and effective communication with development teams.
-
-This repository presents selected examples of my QA work, while respecting confidentiality agreements (NDA).  
-All materials here are anonymized or recreated for demonstration purposes.
+A Junior Manual QA Tester with practical experience in web, mobile and API testing. Currently, I work as a QA Trainee at GenofIT, where I’m involved in the full testing cycle — reviewing requirements, designing and executing test cases, validating functionality and UI workflows, performing regression and exploratory testing, reporting bugs in Jira, and participating in Agile/Scrum processes. I also have experience with backend data validation using SQL and API testing with Postman, ensuring accurate system behaviour and reliable integrations. Having completed a UX/UI Design course, I evaluate interfaces not only from a functional perspective but also from a usability and user experience standpoint, which helps me support the delivery of intuitive, user-centred digital products. I am committed to continuous learning, attention to detail, and contributing to product quality and team collaboration.
 
 ---
 
 ## 🔍 Projects & Experience (NDA Compliant)
 
-I have worked on multiple commercial projects, including:
-
-- Web-based internal management systems
-- E-commerce platforms
-- Customer-facing mobile applications
-- REST API integrations
-
-Due to confidentiality agreements, project names, company names, and specific proprietary details are not disclosed.  
-However, the structure and logic of QA work are demonstrated through anonymized:
+I have worked on multiple commercial projects. Due to confidentiality agreements, project names, company names, and specific proprietary details are not disclosed. However, the structure and logic of QA work are demonstrated through anonymized:
 
 - Test Cases
 - Bug Reports
@@ -33,9 +21,9 @@ These examples illustrate my approach to identifying requirements, analyzing fun
 
 | Category | Tools |
 |--------|-------|
-| Test Management | Jira, YouTrack, ClickUp, Trello |
+| Test Management | Jira, YouTrack, ClickUp, Trello, Qase.io |
 | API Testing | Postman, Swagger |
-| Databases | SQL (basic–intermediate), PgAdmin, MySQL Workbench |
+| Databases | SQL (basic–intermediate) |
 | Browser DevTools | Chrome DevTools |
 | Test Documentation | Excel, Google Sheets, Confluence, Notion |
 | Version Control | Git, GitHub |
@@ -70,9 +58,9 @@ These examples illustrate my approach to identifying requirements, analyzing fun
 Feel free to reach out if you’d like to discuss opportunities or have any questions.
 
 **Name:** Ana Tvalavadze  
-**Email:** *add your email here*  
-**LinkedIn:** *add your LinkedIn link here*  
-**GitHub:** https://github.com/your-username
+**Email:** *tvalavadzeana@gmail.com*  
+**LinkedIn:** *[https://www.linkedin.com/in/ana-tvalavadze-62a05221a/](h)*  
+**GitHub:** https://github.com/tvalavadzeanaQA
 
 ---
 
