@@ -29,16 +29,6 @@ I have worked on multiple commercial projects. Due to confidentiality agreements
 These examples illustrate my approach to identifying requirements, analyzing functionality, designing test scenarios, executing test cycles, reporting issues, and collaborating with cross-functional teams.
 
 ---
-
-## 📁 Portfolio Structure
-
-- [Test Cases](Test-Cases)
-- [Bug Reports](Bug-Reports)
-- [Checklists](./Checklists/)
-- [Certificates](Certificates)
-- [Learning](./Learning/)
-
----
 ## 🧰 Tools & Technologies
 
 | Category | Tools |
@@ -49,6 +39,18 @@ These examples illustrate my approach to identifying requirements, analyzing fun
 | Browser DevTools | Chrome DevTools |
 | Test Documentation | Excel, Google Sheets, Confluence, Notion |
 | Version Control | Git, GitHub |
+
+---
+
+
+## 📁 Portfolio Structure
+
+- [Test Cases](Test-Cases)
+- [Bug Reports](Bug-Reports)
+- [Checklists](./Checklists/)
+- [Certificates](Certificates)
+- [Learning](./Learning/)
+
 
 ---
 
