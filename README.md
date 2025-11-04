@@ -45,11 +45,12 @@ These examples illustrate my approach to identifying requirements, analyzing fun
 
 ## 📁 Portfolio Structure
 
-- **/Test-Cases** → Examples of structured test cases  
-- **/Bug-Reports** → Samples of well-documented issues  
-- **/Checklists** → Practical testing checklists used in different phases  
-- **/Learning** → Notes and study materials I created during learning and work  
-- **/Certificates** → Proof of completed professional training  
+- [Test Cases](Test-Cases)
+- [Bug Reports](./Bug-Reports/)
+- [Checklists](./Checklists/)
+- [Learning](./Learning/)
+- [Certificates](./Certificates/)
+ 
 
 ---
 
