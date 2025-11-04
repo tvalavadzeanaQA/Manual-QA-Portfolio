@@ -46,10 +46,10 @@ These examples illustrate my approach to identifying requirements, analyzing fun
 ## 📁 Portfolio Structure
 
 - [Test Cases](Test-Cases)
-- [Bug Reports](./Bug-Reports/)
+- [Bug Reports](Bug-Reports)
 - [Checklists](./Checklists/)
+- [Certificates](Certificates)
 - [Learning](./Learning/)
-- [Certificates](./Certificates/)
  
 
 ---
