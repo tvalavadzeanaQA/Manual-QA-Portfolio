@@ -4,6 +4,19 @@ A Junior Manual QA Tester with practical experience in web, mobile and API testi
 
 ---
 
+## 📚 What I Worked With & Learned
+
+- Test Case creation (positive/negative scenarios, edge cases)
+- Bug reporting with clear reproduction steps, expected vs actual results, priority & severity
+- Smoke, Regression, UI/UX, Functional, Exploratory testing
+- API request/response validation (GET, POST, PUT, DELETE)
+- Working with development teams using Scrum/Kanban workflows
+- Understanding of SDLC and STLC processes
+- Basic SQL for data validation
+- Root cause thinking and requirement clarification
+  
+---
+
 ## 🔍 Projects & Experience (NDA Compliant)
 
 I have worked on multiple commercial projects. Due to confidentiality agreements, project names, company names, and specific proprietary details are not disclosed. However, the structure and logic of QA work are demonstrated through anonymized:
@@ -17,6 +30,15 @@ These examples illustrate my approach to identifying requirements, analyzing fun
 
 ---
 
+## 📁 Portfolio Structure
+
+- [Test Cases](Test-Cases)
+- [Bug Reports](Bug-Reports)
+- [Checklists](./Checklists/)
+- [Certificates](Certificates)
+- [Learning](./Learning/)
+
+---
 ## 🧰 Tools & Technologies
 
 | Category | Tools |
@@ -27,30 +49,6 @@ These examples illustrate my approach to identifying requirements, analyzing fun
 | Browser DevTools | Chrome DevTools |
 | Test Documentation | Excel, Google Sheets, Confluence, Notion |
 | Version Control | Git, GitHub |
-
----
-
-## 📚 What I Worked With & Learned
-
-- Test Case creation (positive/negative scenarios, edge cases)
-- Bug reporting with clear reproduction steps, expected vs actual results, priority & severity
-- Smoke, Regression, UI/UX, Functional, Exploratory testing
-- API request/response validation (GET, POST, PUT, DELETE)
-- Working with development teams using Scrum/Kanban workflows
-- Understanding of SDLC and STLC processes
-- Basic SQL for data validation
-- Root cause thinking and requirement clarification
-
----
-
-## 📁 Portfolio Structure
-
-- [Test Cases](Test-Cases)
-- [Bug Reports](Bug-Reports)
-- [Checklists](./Checklists/)
-- [Certificates](Certificates)
-- [Learning](./Learning/)
- 
 
 ---
 
