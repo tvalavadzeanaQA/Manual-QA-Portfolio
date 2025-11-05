@@ -3,6 +3,26 @@
 A Junior Manual QA Tester with practical experience in web, mobile and API testing. Currently, I work as a QA Trainee at GenofIT, where I’m involved in the full testing cycle — reviewing requirements, designing and executing test cases, validating functionality and UI workflows, performing regression and exploratory testing, reporting bugs in Jira, and participating in Agile/Scrum processes. I also have experience with backend data validation using SQL and API testing with Postman, ensuring accurate system behaviour and reliable integrations. Having completed a UX/UI Design course, I evaluate interfaces not only from a functional perspective but also from a usability and user experience standpoint, which helps me support the delivery of intuitive, user-centred digital products. I am committed to continuous learning, attention to detail, and contributing to product quality and team collaboration.
 
 ---
+## 📬 Contact
+
+Feel free to reach out if you’d like to discuss opportunities or have any questions.
+
+**Name:** Ana Tvalavadze  
+**Email:** *tvalavadzeana@gmail.com*  
+**LinkedIn:** *[https://www.linkedin.com/in/ana-tvalavadze-62a05221a/](h)*  
+
+---
+
+## 📁 Portfolio Structure
+
+- [Test Cases](Test-Cases)
+- [Bug Reports](Bug-Reports)
+- [Checklists](./Checklists/)
+- [Certificates](Certificates)
+- [Learning](./Learning/)
+
+
+---
 
 ## 📚 What I Worked With & Learned
 
@@ -40,27 +60,7 @@ These examples illustrate my approach to identifying requirements, analyzing fun
 | Test Documentation | Excel, Google Sheets, Confluence, Notion |
 | Version Control | Git, GitHub |
 
----
 
-
-## 📁 Portfolio Structure
-
-- [Test Cases](Test-Cases)
-- [Bug Reports](Bug-Reports)
-- [Checklists](./Checklists/)
-- [Certificates](Certificates)
-- [Learning](./Learning/)
-
-
----
-
-## 📬 Contact
-
-Feel free to reach out if you’d like to discuss opportunities or have any questions.
-
-**Name:** Ana Tvalavadze  
-**Email:** *tvalavadzeana@gmail.com*  
-**LinkedIn:** *[https://www.linkedin.com/in/ana-tvalavadze-62a05221a/](h)*  
 **GitHub:** https://github.com/tvalavadzeanaQA
 
 ---
