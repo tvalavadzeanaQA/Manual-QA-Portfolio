@@ -1,3 +1,5 @@
+<img width="1128" height="616" alt="qase io bug" src="https://github.com/user-attachments/assets/c66d9428-7f45-40d0-a2e1-bb0083af00d9" />
+
 
 <img width="754" height="622" alt="Bug Report 1 1JIRA" src="https://github.com/user-attachments/assets/2282e94e-cbbe-46d1-8204-fa411d38ed45" />
 <img width="741" height="617" alt="Bug Report 1 2" src="https://github.com/user-attachments/assets/7f822cd3-b88d-4b10-9406-b1a8b8eb6705" />
