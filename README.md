@@ -14,6 +14,7 @@ Feel free to reach out if you’d like to discuss opportunities or have any ques
 **Name:** Ana Tvalavadze  
 **Email:** *tvalavadzeana@gmail.com*  
 **LinkedIn:** *[https://www.linkedin.com/in/ana-tvalavadze-62a05221a/](h)*  
+**WhatsApp:** +995591007187
 
 ---
 
