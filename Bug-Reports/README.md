@@ -1,3 +1,7 @@
+<img width="972" height="593" alt="image" src="https://github.com/user-attachments/assets/70f24618-2277-49be-8bff-a394ae374347" />
+<img width="946" height="431" alt="image" src="https://github.com/user-attachments/assets/ba39985d-da38-41fe-adf6-c5989081e595" />
+
+
 <img width="1128" height="616" alt="qase io bug" src="https://github.com/user-attachments/assets/c66d9428-7f45-40d0-a2e1-bb0083af00d9" />
 
 
