@@ -22,9 +22,8 @@ Feel free to reach out if you’d like to discuss opportunities or have any ques
 
 - [Test Cases](Test-Cases)
 - [Bug Reports](Bug-Reports)
-- [Checklists](./Checklists/)
+- [Checklists](Checklists/)
 - [Certificates](Certificates)
-- [Learning](./Learning/)
 
 
 ---
