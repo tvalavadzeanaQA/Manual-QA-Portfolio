@@ -1,3 +1,6 @@
+## QA Manual Pro Course - Genofit
+![Manual Pro](https://github.com/user-attachments/assets/a30fdc54-ecd0-448a-8c7a-620d7ae8effa)
+
 ## Manual Testing Course - Genofit
 <img width="2000" height="1414" alt="Certificate Ana-Tvalavadze" src="https://github.com/user-attachments/assets/ad1c3cab-6c88-4662-9f87-a915896aa819" />
 
