@@ -1,3 +1,7 @@
+<img width="779" height="424" alt="image" src="https://github.com/user-attachments/assets/7a9c1903-dd48-4aa3-b2ed-b830f21c0da7" />
+<img width="587" height="551" alt="image" src="https://github.com/user-attachments/assets/f5fb9d01-77ac-4216-8959-c8f3b5b6445f" />
+
+-----------------------------------------------
 
 <img width="835" height="617" alt="ტესტ ქეისი Qase io " src="https://github.com/user-attachments/assets/5b9b5ac7-165e-4d77-8c51-24bce20d43d4" />
 
