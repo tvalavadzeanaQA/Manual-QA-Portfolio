@@ -1,8 +1,8 @@
 # Hello, I’m Ana!
 
-**A Junior Manual QA** Tester with dedicated experience in web, mobile, and API testing.
+**A Manual QA** Tester with dedicated experience in web, mobile, API and automation testing.
 
-Currently, I work **full-time as a Junior Manual QA Tester** at the US-based company **Origins AI**, where I contribute to product quality through rigorous **Smoke, Regression, and Functional testing**. My main focus is on comprehensive **End-to-End and Frontend Functional testing,** which includes writing detailed Test Cases, Scenarios, and Checklists, validating critical User Flows, and ensuring UI integrity. I actively collaborate with developers in an Agile/Scrum environment and specialise in utilising Jira/Xray integration for test management, specifically for creating and managing daily runs of critical Smoke Test Sets and diagnosing/resolving technical issues within testing tools.
+Currently, I work **full-time as a Manual QA Tester** at the US-based company **ForEDU.ai**, where I contribute to product quality through rigorous **Smoke, Regression, Functional, UX and basic Automation testing**. My main focus is on comprehensive **End-to-End and Frontend Functional testing,** which includes writing detailed Test Cases, Scenarios, and Checklists, validating critical User Flows, and ensuring UI integrity. I actively collaborate with developers in an Agile/Scrum environment and specialise in utilising Jira/Xray integration for test management, specifically for creating and managing daily runs of critical Smoke Test Sets and diagnosing/resolving technical issues within testing tools.
 
 My experience as a **QA Trainee at GenofIT** also includes backend data validation using **SQL, API testing with Postman**, and a unique focus on usability and user experience (UX/UI Design course background), allowing me to evaluate interfaces from both a functional and user-centred perspective. I am committed to continuous learning, attention to detail, and maintaining a high standard of product quality.
 
@@ -35,6 +35,7 @@ Feel free to reach out if you’d like to discuss opportunities or have any ques
 - Bug reporting with clear reproduction steps, expected vs actual results, priority & severity
 - Smoke, Regression, UI/UX, Functional, Exploratory testing
 - API request/response validation (GET, POST, PUT, DELETE)
+- Automation (Selenium, Python, PyCharm)
 - Working with development teams using Scrum/Kanban workflows
 - Understanding of SDLC and STLC processes
 - Basic SQL for data validation
@@ -60,6 +61,7 @@ These examples illustrate my approach to identifying requirements, analysing fun
 |--------|-------|
 | Test Management | Jira, Xray, YouTrack, ClickUp, Trello, Qase.io |
 | API Testing | Postman, Swagger |
+| Automation | Selenium, Python, PyCharm |
 | Databases | SQL (basic–intermediate) |
 | Browser DevTools | Chrome DevTools |
 | Test Documentation | Excel, Google Sheets, Confluence, Notion |
