@@ -21,6 +21,7 @@ Feel free to reach out if you’d like to discuss opportunities or have any ques
 ## 📁 Portfolio Structure
 
 - [Test Cases](Test-Cases)
+- [API-Testing](API-Testing)
 - [Bug Reports](Bug-Reports)
 - [Checklists](Checklists/)
 - [Automation](Automation)
